@@ -15,7 +15,7 @@ A simple MERN stack project of crud app using graphql.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/Mansi231/MERN-GRAPHQL-CRUD.git
 
 2. Backend Setup:
 
