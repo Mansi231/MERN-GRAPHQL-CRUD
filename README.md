@@ -12,12 +12,19 @@ A simple MERN stack project of crud app using graphql.
 
 ## Getting Started
 
-- First setup project by clonnig this project
-  
-```bash
-git clone https://github.com/Mansi231/MERN-GRAPHQL-CRUD.git
+1. Clone the repository:
 
-- Second , navigate to backend folder then setup .env file and mongodb database
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
 
-```bash
-cd backend
+2. Backend Setup:
+
+   ```bash
+   cd backend && npm install
+
+   setup .env file and mongodb
+
+3. Frontend Setup:
+
+   ```bash
+   cd frontend && npm install && npm run dev
