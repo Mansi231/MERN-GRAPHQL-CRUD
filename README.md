@@ -19,12 +19,13 @@ A simple MERN stack project of crud app using graphql.
 
 2. Backend Setup:
 
+   setup .env file and mongodb
+   
    ```bash
    cd backend && npm install
 
-   setup .env file and mongodb
 
-3. Frontend Setup:
+4. Frontend Setup:
 
    ```bash
    cd frontend && npm install && npm run dev
