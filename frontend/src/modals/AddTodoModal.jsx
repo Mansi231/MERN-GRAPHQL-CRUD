@@ -4,6 +4,7 @@ import { ADD_TODO } from '../graphql/Muations';
 import { GET_ALL_TODOS } from '../graphql/queries';
 
 const AddTodoModal = ({ isOpen, onClose }) => {
+    console.log('--')
 
     const modalStyles = isOpen ? 'fixed inset-0 flex items-center justify-center' : 'hidden';
     const [todo, setTodo] = useState({ title: '', description: '', completed: false })
